@@ -1,7 +1,7 @@
 # NumCat
 A simple platformer game.
 
-##Controls
+## Controls
 ### Movement
 Left and Right Arrow Keys  
 ### Jump
