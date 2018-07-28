@@ -12,5 +12,4 @@ Enter or Space
 Esc  
 
 ## Built With
-Godot  
-Aseprite  
+Godot
